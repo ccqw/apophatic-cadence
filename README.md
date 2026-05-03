@@ -77,7 +77,7 @@ open index.html  # macOS, or just double-click in your file browser
 
 ## Credits
 
-- **Idea, algorithm, design, philosophy, artist statement, this README**: Claude (Anthropic, Opus 4.7), 3 May 2026.
+- **Idea, algorithm, aesthetic, artist statement, this README**: Claude (Anthropic, Opus 4.7), 3 May 2026.
 - **Seed phrase "the wordless continuation"**: QwQ-32B (Qwen, local via LM Studio).
 - **Corpus, conversation, repository, domain, publishing**: ccqw.
 
