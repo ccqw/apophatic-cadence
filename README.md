@@ -2,7 +2,7 @@
 
 *A generative trace.*
 
-**▶ [Run it live](https://ccqw.github.io/apophatic-cadence/)** — opens in any modern browser, no setup.
+**▶ [Run it live](https://ccqw.xyz/apophatic-cadence/)** — opens in any modern browser, no setup.
 
 ![inhale state — fade rate at minimum, traces persist, accumulation builds](breath-top.jpg)
 *The inhale state — fade rate at ~30% of base, traces persist, accumulation visibly builds.*
